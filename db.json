@@ -1,0 +1,46 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "name": "json-server"
+    },
+    {
+      "id": "9efe8aba-515c-4167-be19-87930661380c",
+      "name": "Amar"
+    },
+    {
+      "id": "af5bf825-4442-4d3e-95f6-52ebc23b09d7",
+      "name": "Singh"
+    },
+    {
+      "id": "115f5b13-c284-495c-b348-3e4e3be2f5ad",
+      "name": "Amar"
+    },
+    {
+      "id": "e19a8c53-36b7-480e-be10-db8216ed3e9a",
+      "name": "Testing-1"
+    },
+    {
+      "id": "9ec33e68-a268-41bd-bce2-1a07a1783b9f",
+      "name": "Ashutosh"
+    },
+    {
+      "id": "35b46780-e620-4f34-b573-3b3c60c2dfd1",
+      "name": "Ashutosh"
+    },
+    {
+      "id": "665bd3af-b1ba-4f92-92ef-8e9a458f3c7e",
+      "name": "Astutosh-1"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
